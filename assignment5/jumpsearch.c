@@ -71,5 +71,5 @@ int main(){
     return 0;
 }
 
-//Cho Lae Lae Hlaing\
+//Cho Lae Lae Hlaing
 //cholaelaehlaing000000@gmail.com
