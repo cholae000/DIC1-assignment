@@ -1,9 +1,6 @@
-//
-// Created by National Cyber City on 2/20/2023.
-//
 
-#ifndef DIPLEVEL1_ZOOM_ONLINE_BANK_H
-#define DIPLEVEL1_ZOOM_ONLINE_BANK_H
+#ifndef ASSIGNMENT_10_H
+#define ASSIGNMENT_10_H
 
 #include "stdio.h"
 #include "time.h"
